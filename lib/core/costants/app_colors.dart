@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const Color appBackgroundColor = Color(0xffE9E9E9);
+const Color activeIndicatorColor = Color(0xffEA383E);
+Color inactiveIndicatorColor = const Color.fromRGBO(234, 56, 62, 0.6);
+const Color textColor = Color(0xff242424);
+const Color buttonBackgroundColor = Color(0xff62D37A);
+const Color imageBackgroundColor = Color(0xffFB7D81);
+const Color containerTextColor = Color(0xffF6F6F6);
+const Color containerColor = Color.fromARGB(255, 233, 87, 87);
+const Color quizcontainerColor = Color(0xffD0D0D0);
+const Color settingscontainerColor = Color(0xffD9D9D9);
+const Color selectedcontainerColor = Color(0xffA7F1B6);
+const Color inactivecontainerColor = Color(0xffE3E3E3);
+const Color inactivetextColor = Color(0xff7A7A7A);
+const Color dilogTextColor = Color(0xff909090);
+const Color radioColor = Color(0xff62D37A);
+const Color sliderActiveColor = Color(0xffEA383E);
+const Color inactiveSliderColor = Color(0xffD0D0D0);
+const Color textFieldColor = Color(0xffD9D9D9);
